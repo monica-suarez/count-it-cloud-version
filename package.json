@@ -1,7 +1,7 @@
 {
-  "name": "get-started-node",
+  "name": "count-it-cloud-version",
   "main": "server.js",
-  "description": "An introduction to developing Node.js apps on the IBM Cloud platform",
+  "description": "count-it-app",
   "version": "0.2.0",
   "private": false,
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/IBM-Cloud/get-started-node"
+    "url": "https://github.com/monica-suarez/count-it-cloud-version"
   },
   "dependencies": {
     "@cloudant/cloudant": "^4.3.0",
