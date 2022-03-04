@@ -1,0 +1,35 @@
+body{  
+  background-color: lightgoldenrodyellow;
+  color: navy;
+  font-family: 'Bentham', serif;
+}
+h1{
+  font-size: 64px;
+  text-align: center;
+  text-decoration: underline;
+}
+main{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+label{
+  font-size: 20px;
+}
+input{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 400px;
+  height: 24px;
+  font-size: 18px;
+  background-color: navy;
+  color: lightgoldenrodyellow;
+  font-family: 'Bentham', serif;
+}
+button{
+  margin-bottom: 30px;
+  border: solid 0.5px lightgray;
+  font-size: 18px;
+  color: navy;
+  font-family: 'Bentham', serif;
+}

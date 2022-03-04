@@ -1,5 +1,5 @@
 ---
 applications:
- - name: GetStartedNode
+ - name: count-it-cloud-version
    random-route: true
    memory: 256M
